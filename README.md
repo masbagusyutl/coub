@@ -7,5 +7,4 @@ https://t.me/nyariairdrop/2685
 auto complete task
 
 #tanya tanya bisa ke
-https://t.me/nyariairdrop
-https://t.me/nyariairdropjateng
+https://t.me/nyariairdrop atau https://t.me/nyariairdropjateng
