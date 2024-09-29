@@ -25,7 +25,7 @@
     {"id": 24, "type": "like-retweet", "title": "Like & Retweet", "price": 5, "icon": "twitter", "status": "ready-to-start", "repeatable": false},
     {"id": 25, "type": "edit-channel", "title": "Edit Channel", "price": 5, "icon": "coub", "status": "ready-to-start", "repeatable": false},
     {"id": 26, "type": "like-5-sports", "title": "Like 5 Sports Coubs", "price": 5, "icon": "like", "status": "ready-to-start", "repeatable": true},
-    {"id": 27, "type": "holder-reward", "title": "Holder Reward", "price": 10, "icon": "buy-crypto", "status": "ready-to-start", "repeatable": true}
-    {"id": 29, "type": "coubers", "title": "+5M Coubers Like & RT", "price": 10, "icon": "buy-crypto", "status": "ready-to-start", "repeatable": True},
-    {"id": 30, "type": "master-of-highload", "title": "Master of highload", "price": 25, "icon": "buy-crypto", "status": "ready-to-start", "repeatable": True}
+    {"id": 27, "type": "holder-reward", "title": "Holder Reward", "price": 10, "icon": "buy-crypto", "status": "ready-to-start", "repeatable": true},
+    {"id": 29, "type": "coubers", "title": "+5M Coubers Like & RT", "price": 10, "icon": "buy-crypto", "status": "ready-to-start", "repeatable": true},
+    {"id": 30, "type": "master-of-highload", "title": "Master of highload", "price": 25, "icon": "buy-crypto", "status": "ready-to-start", "repeatable": true}
 ]
